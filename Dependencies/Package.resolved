@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HelloKit",
+        "repositoryURL": "https://github.com/alex-ross/HelloKit.git",
+        "state": {
+          "branch": null,
+          "revision": "4b85c25bd7f93d10722a2d39fd844d07447d77e4",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
